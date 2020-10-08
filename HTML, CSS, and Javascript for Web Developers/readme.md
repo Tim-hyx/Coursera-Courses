@@ -2,12 +2,6 @@
 
 This repository contains my solution codes to the assignments of the Coursera course called HTML, CSS and Javascript for Web Developers in Coursera by Johns Hopkins University.
 
-
-
-![image](https://www.coursera.org/account/accomplishments/certificate/K7VKMHNFB9YC)]
-
-
-
 ## Assignments :
 
 + [Module 2 Solution](https://tim-hyx.github.io/Coursera-Courses/HTML,%20CSS,%20and%20Javascript%20for%20Web%20Developers/module2-solution/)
